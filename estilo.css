@@ -1,0 +1,30 @@
+body{
+    background-color: firebrick;
+}
+
+div{
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+input{
+    border-radius: solid 10px black;
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+}
+button{
+    width: 90px;
+    background-color: black;
+    color: white;
+    border-radius: solid 2px;
+}
+.res {
+    background-color:  black;
+    text-align: center;
+    margin: 0  auto;
+    width: 250px;
+    height: 100px;
+    color: white;
+}
